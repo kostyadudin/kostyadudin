@@ -2,7 +2,7 @@
 My name is Kostya and I am developer
 
 - 🛠 4+ years of backend-development in commercial projects
-- 🔭 Currently working on [Kultprosvet](https://kultprosvet.net) as a back-end developer
+- 🔭 Currently working on [Kultprosvet](https://kultprosvet.net) as a backend developer
 - 💬 Ask me about PHP, Laravel, API, MySQL
 - 📫 How to reach me: duke40k@gmail.com
 
